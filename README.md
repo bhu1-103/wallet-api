@@ -1,5 +1,5 @@
 # wallet-api
-wallet mechanism using fastapi
+a simple wallet mechanism using fastapi to list users, update balances and fetch past transactions
 
 ## steps to run project
 
